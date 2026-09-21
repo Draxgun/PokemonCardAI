@@ -1,0 +1,220 @@
+[
+  {
+    "id": "base1-001",
+    "name": "Bulbasaur",
+    "set": "Base Set",
+    "number": "001",
+    "rarity": "Common",
+    "hp": 40,
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "id": "base1-004",
+    "name": "Charmander",
+    "set": "Base Set",
+    "number": "004",
+    "rarity": "Common",
+    "hp": 50,
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "base1-006",
+    "name": "Charizard",
+    "set": "Base Set",
+    "number": "006",
+    "rarity": "Rare Holo",
+    "hp": 120,
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "base1-007",
+    "name": "Squirtle",
+    "set": "Base Set",
+    "number": "007",
+    "rarity": "Common",
+    "hp": 40,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "id": "base1-025",
+    "name": "Pikachu",
+    "set": "Base Set",
+    "number": "025",
+    "rarity": "Common",
+    "hp": 40,
+    "types": [
+      "Lightning"
+    ]
+  },
+  {
+    "id": "base1-026",
+    "name": "Raichu",
+    "set": "Base Set",
+    "number": "026",
+    "rarity": "Rare Holo",
+    "hp": 80,
+    "types": [
+      "Lightning"
+    ]
+  },
+  {
+    "id": "base1-094",
+    "name": "Gengar",
+    "set": "Base Set",
+    "number": "094",
+    "rarity": "Rare Holo",
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "base1-131",
+    "name": "Lapras",
+    "set": "Base Set",
+    "number": "131",
+    "rarity": "Rare",
+    "hp": 70,
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "id": "base1-143",
+    "name": "Snorlax",
+    "set": "Base Set",
+    "number": "143",
+    "rarity": "Rare",
+    "hp": 90,
+    "types": [
+      "Colorless"
+    ]
+  },
+  {
+    "id": "jungle-003",
+    "name": "Vileplume",
+    "set": "Jungle",
+    "number": "003",
+    "rarity": "Rare Holo",
+    "hp": 80,
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "id": "jungle-005",
+    "name": "Flareon",
+    "set": "Jungle",
+    "number": "005",
+    "rarity": "Rare Holo",
+    "hp": 70,
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "jungle-025",
+    "name": "Pikachu",
+    "set": "Jungle",
+    "number": "025",
+    "rarity": "Common",
+    "hp": 50,
+    "types": [
+      "Lightning"
+    ]
+  },
+  {
+    "id": "fossil-004",
+    "name": "Gengar",
+    "set": "Fossil",
+    "number": "004",
+    "rarity": "Rare Holo",
+    "hp": 80,
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "fossil-006",
+    "name": "Haunter",
+    "set": "Fossil",
+    "number": "006",
+    "rarity": "Uncommon",
+    "hp": 60,
+    "types": [
+      "Psychic"
+    ]
+  },
+  {
+    "id": "fossil-009",
+    "name": "Kabutops",
+    "set": "Fossil",
+    "number": "009",
+    "rarity": "Rare Holo",
+    "hp": 60,
+    "types": [
+      "Fighting",
+      "Water"
+    ]
+  },
+  {
+    "id": "base1-001-duplicate",
+    "name": "Bulbasaur",
+    "set": "Base Set",
+    "number": "001",
+    "rarity": "Common",
+    "hp": 40,
+    "types": [
+      "Grass"
+    ]
+  },
+  {
+    "id": "bad-001",
+    "name": "",
+    "set": "Base Set",
+    "number": "099",
+    "rarity": "Common",
+    "hp": 50,
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "bad-002",
+    "name": "Missing HP Test",
+    "set": "Base Set",
+    "number": "100",
+    "rarity": "Common",
+    "types": [
+      "Water"
+    ]
+  },
+  {
+    "id": "bad-003",
+    "name": "Invalid HP Test",
+    "set": "Base Set",
+    "number": "101",
+    "rarity": "Rare",
+    "hp": "one hundred",
+    "types": [
+      "Fire"
+    ]
+  },
+  {
+    "id": "bad-004",
+    "name": "Invalid Types Test",
+    "set": "Base Set",
+    "number": "102",
+    "rarity": "Common",
+    "hp": 60,
+    "types": "Lightning"
+  }
+]
